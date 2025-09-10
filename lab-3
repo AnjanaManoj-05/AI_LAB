@@ -82,3 +82,4 @@ if solution:
     print("Goal state")
 else:
     print("No solution found.")
+
