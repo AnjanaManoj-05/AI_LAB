@@ -72,3 +72,4 @@ entails(evaluate_KB, query_Q_implies_R)
 
 print("\nChecking Entailment for Query: P ∧ Q")
 entails(evaluate_KB, query_P_and_Q)
+
